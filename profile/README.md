@@ -1,6 +1,9 @@
-# All of Kasetsart, in one account.
-Kraikub is an **OAuth 2.0 provider** for Kasetsart University. This is a senior project under Department of Computer Engineering 
+# Kasetsart Identity Provider (OpenID Connect).
+Kraikub is an **Identity Provider** for Kasetsart University. This is a senior project under Department of Computer Engineering 
 at Kasetsart University, Bangkok, Thailand.
 
-<br /><br />
+
+For more technical information, please visit [`kraikub/oauth2`](https://github.com/kraikub/oauth2) repository.
+
+<br />
 <p align="center">© 2022 Nutchanon Chantrasup</p>
